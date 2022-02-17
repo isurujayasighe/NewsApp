@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shared_preferences_file_key">smart_drive_shared_preferences</string>
+    <string name="remember_me_">remember_me</string>
+    <string name="last_login_time">last_login_time</string>
+    <string name="token">token</string>
+    <string name="emp_no">emp_no</string>
+    <string name="emp_pin">emp_pin</string>
+    <string name="full_name">full_name</string>
+    <string name="user_name">user_name</string>
+    <string name="password">password</string>
+    <string name="packing_list">packing_list</string>
+    <string name="return_note">return_note</string>
+    <string name="fcmToken">fcm_token</string>
+    <string name="registration_id">registration_id</string>
+    <string name="is_first_time">isFirstTime</string>
+
+</resources>
